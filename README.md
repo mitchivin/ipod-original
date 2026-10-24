@@ -2,7 +2,7 @@
 
 The first iPod (2001) in the browser, running the 1.3-era software: menus, Now Playing, the scrubber, Clock and Game.
 
-**[Open live demo](https://mitchivindesign.github.io/ipod-original/) · [Explore in DoodleDev](https://doodledev.app/)**
+**[Open live demo](https://mitchivin.github.io/ipod-original/) · [Explore in DoodleDev](https://doodledev.app/)**
 
 Works on desktop and phone. Open the live demo and start listening.
 
@@ -20,11 +20,11 @@ Works on desktop and phone. Open the live demo and start listening.
 
 ## Get started
 
-1. Open the [iPod Original live demo](https://mitchivindesign.github.io/ipod-original/).
+1. Open the [iPod Original live demo](https://mitchivin.github.io/ipod-original/).
 2. Go to Browse and choose a song.
 3. Use the wheel and buttons to control playback.
 
-This repository contains public product information. The application source is not published here.
+This repository hosts the live demo and its product information.
 
 ## Related
 
