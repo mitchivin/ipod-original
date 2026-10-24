@@ -28,7 +28,7 @@ This repository hosts the live demo and its product information.
 
 ## Related
 
-- [MiPod Classic](https://github.com/mitchivin/mipod)
+- [iPod Classic](https://github.com/mitchivin/ipod-classic)
 - [Mi Boy Color](https://github.com/mitchivin/miboy)
 - [DoodleDev](https://doodledev.app/)
 - [MitchIvin XP](https://mitchivin.com/)
